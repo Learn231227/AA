@@ -1,7 +1,7 @@
 ﻿
 {
 //定义jar地址
-"spider":"https://github.com/Learn231227/iptv999.github.io/blob/main/0723.jar",
+"spider":"https://raw.githubusercontent.com/Learn231227/iptv999.github.io/main/0723.jar",
 
 
 //定义直播源地址，clan://TVBox/0723.jar 需要转换为Base64编码，再粘贴到"=txt&ext="后面
