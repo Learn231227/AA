@@ -10,9 +10,9 @@
 //第一首页源的各种网站，抄写大佬的最简单
 "sites":[
 
-{"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name": " A 吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
+{"key":"ttzy", "name":"B 天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
 
 ],
 
