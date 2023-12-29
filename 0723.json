@@ -1,11 +1,11 @@
 ﻿
 {
 //定义jar地址
-"spider":"clan://TVBox/0723.jar",
+"spider":"https://github.com/Learn231227/iptv999.github.io/blob/main/0723.jar",
 
 
 //定义直播源地址，clan://TVBox/0723.jar 需要转换为Base64编码，再粘贴到"=txt&ext="后面
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlYXJuMjMxMjI3L2lwdHY5OTkuZ2l0aHViLmlvL21haW4vbGl2ZS50eHQ="]}]}],
 
 //第一首页源的各种网站，抄写大佬的最简单
 "sites":[
