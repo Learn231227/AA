@@ -10,8 +10,8 @@
 	{"group":"redirect",
 	 "channels":[{
 		 "name":"redirect",
-		// "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlYXJuMjMxMjI3L0FBL21haW4vMDcyMy5qYXI="]}]}],
-                    "urls":"https://xhdwc.tk/tvlive.txt"}]}],
+		 "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlYXJuMjMxMjI3L0FBL21haW4vMDcyMy5qYXI="]}]}],
+                  //  "urls":"https://xhdwc.tk/tvlive.txt"}]}],
 // "lives": [
 //        {
 //            "name": "tvlive",
