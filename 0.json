@@ -7,19 +7,19 @@
 
 //定义直播源地址spider，clan://TVBox/0723.jar 需要转换为Base64编码，再粘贴到"=txt&ext="后面
 //"lives":[
-//	{"group":"redirect",
-//	 "channels":[{
-//		 "name":"redirect",
-//		 "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlYXJuMjMxMjI3L0FBL21haW4vMDcyMy5qYXI="]}]}],
-
- "lives": [
-        {
-            "name": "tvlive",
-            "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt",
-            "playerType": 1
-        }
-    ],
+	{"group":"redirect",
+	 "channels":[{
+		 "name":"redirect",
+		// "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlYXJuMjMxMjI3L0FBL21haW4vMDcyMy5qYXI="]}]}],
+                    "urls":"https://xhdwc.tk/tvlive.txt"}]}],
+// "lives": [
+//        {
+//            "name": "tvlive",
+ //           "type": 0,
+//            "url": "https://xhdwc.tk/tvlive.txt",
+ //           "playerType": 1
+ //       }
+//    ],
 
 "sites": [
         {
