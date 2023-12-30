@@ -1,16 +1,15 @@
 ﻿
 {
-//https://raw.githubusercontent.com/Learn231227/iptv999.github.io/main/0723.json
+//https://raw.githubusercontent.com/Learn231227/AA/main/0723.json
 //定义jar地址
-"spider":"https://raw.githubusercontent.com/Learn231227/iptv999.github.io/main/0723.jar",
+"spider":"https://raw.githubusercontent.com/Learn231227/AA/main/0723.jar",
 
 
-//定义直播源地址，clan://TVBox/0723.jar 需要转换为Base64编码，再粘贴到"=txt&ext="后面
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlYXJuMjMxMjI3L2lwdHY5OTkuZ2l0aHViLmlvL21haW4vbGl2ZS50eHQ="]}]}],
+//定义直播源地址spider，clan://TVBox/0723.jar 需要转换为Base64编码，再粘贴到"=txt&ext="后面
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlYXJuMjMxMjI3L0FBL21haW4vMDcyMy5qYXI="]}]}],
 
 //第一首页源的各种网站，抄写大佬的最简单
 "sites":[
-
 {"key": "Kuaikan","name": "A吾爱快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"ttzy", "name":"B天堂资源", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
