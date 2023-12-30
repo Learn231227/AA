@@ -1,12 +1,8 @@
 {
 //https://raw.githubusercontent.com/Learn231227/AA/main/0.json
-//spider后面是定义jar地址
 "spider":"https://raw.githubusercontent.com/Learn231227/AA/main/0723.jar",
-
 //壁纸链接，自行替换
 "wallpaper":"http://52bsj.vip:82/late",
-
-
 //直播源地址
 	"lives": [{
 		    "name": "live",
@@ -15,16 +11,12 @@
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
-
-
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2xpdmUudHh0"]}]}],
-
-
+	
 "sites":[
-{"key":"Kuaikan","name": " 幸福之家","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
+{"key":"Kuaikan","name": "幸福之家","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"ttzy", "name":"NONE", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
 ],
-
 
 "parses": [
 {"name": "解析聚合","type": 3,"url": "Demo"},
